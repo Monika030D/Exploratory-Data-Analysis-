@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-
+This project focuses on Exploratory Data Analysis (EDA) of an E-commerce dataset. It involves data cleaning, analysis, and visualization to identify important patterns, trends, and insights from the data. The project demonstrates practical data analysis using Python and its visualization libraries
